@@ -1,0 +1,43 @@
+{
+  "name": "core-beta-es6",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "app-root-path": "^2.0.1",
+    "async": "^2.6.0",
+    "babel": "^6.23.0",
+    "babel-core": "^6.26.0",
+    "babel-preset-es2015": "^6.24.1",
+    "bluebird": "^3.5.1",
+    "bunyan": "^1.8.12",
+    "confidence": "^3.0.2",
+    "debug": "^3.1.0",
+    "del": "^3.0.0",
+    "exception-factory": "^1.0.12",
+    "gulp": "^3.9.1",
+    "gulp-babel": "^7.0.1",
+    "gulp-sourcemaps": "^2.6.4",
+    "lodash": "^4.17.5",
+    "moar-lodash": "^2.7.1",
+    "mongoose": "^5.0.12",
+    "sasset-lodash": "^0.1.0",
+    "source-map-support": "^0.5.4",
+    "sourcemap-lookup": "0.0.3",
+    "yargs": "^11.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SASSET/core-beta-es6.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SASSET/core-beta-es6/issues"
+  },
+  "homepage": "https://github.com/SASSET/core-beta-es6#readme",
+  "description": ""
+}
