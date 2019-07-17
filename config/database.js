@@ -9,7 +9,7 @@ module.exports = {
         // Use different connections in dev, based on the `mdbhost` value
         connection: {
             $filter: 'mdbhost',
-            mlab: 'mongodb://sasset_user:SassetPass1@ds047365.mongolab.com:47365/jhyland_test',
+            mlab: 'mongodb://sasset_user:Fake..@ds047365.mongolab.com:47365/jhyland_test',
             local: 'mongodb://user:pass@localhost:47365/database'
             // Want a default?
             // $default: ''
